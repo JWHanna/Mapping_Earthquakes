@@ -4,7 +4,6 @@ console.log("working");
 // Create the map object with center at the San Francisco airport.
 let map = L.map('mapid').setView([37.6213, -122.3790], 5);
 
-// Coordinates for each point to be used in the line.
 // Coordinates for each point to be used in the polyline.
 let line = [
   [33.9416, -118.4085],
