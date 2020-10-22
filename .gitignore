@@ -1,3 +1,6 @@
+# Adding files to be ignored
+config.js
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
